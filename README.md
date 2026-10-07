@@ -1,13 +1,19 @@
+<a name="top"></a>
+
 <div align="center">
 
-<kbd>&nbsp;NOTE-TAKING&nbsp;</kbd> &nbsp; <kbd>&nbsp;BURP SUITE&nbsp;</kbd> &nbsp; <kbd>&nbsp;OBSIDIAN&nbsp;</kbd> &nbsp; 
+<img src="assets/header.svg" alt="Burp x Obsidian" width="100%" />
 
-[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+<br />
+
+<a href="https://github.com/Hacking-Notes/Burp-Suite-Obsidian-Integration/stargazers"><img src="https://img.shields.io/github/stars/Hacking-Notes/Burp-Suite-Obsidian-Integration?style=for-the-badge&logo=github&logoColor=1f2328&label=Stars&labelColor=f6f8fa&color=059669" alt="Stars" /></a>
+<a href="https://github.com/Hacking-Notes/Burp-Suite-Obsidian-Integration/network/members"><img src="https://img.shields.io/github/forks/Hacking-Notes/Burp-Suite-Obsidian-Integration?style=for-the-badge&logo=git&logoColor=1f2328&label=Forks&labelColor=f6f8fa&color=0284c7" alt="Forks" /></a>
+<a href="https://github.com/Hacking-Notes/Burp-Suite-Obsidian-Integration/commits"><img src="https://img.shields.io/github/last-commit/Hacking-Notes/Burp-Suite-Obsidian-Integration?style=for-the-badge&label=Updated&labelColor=f6f8fa&color=7c3aed" alt="Last commit" /></a>
+<a href="https://hacking-notes.com"><img src="https://img.shields.io/badge/More-hacking--notes.com-db2777?style=for-the-badge&labelColor=f6f8fa" alt="hacking-notes.com" /></a>
 
 </div>
 
-
-# A Streamlined Note-Taking Solution - Burp Suite Obsidian Integration 
+<br />
 
 ![365486671-cb56d795-cc78-4d4b-b3d3-69c4f56844b5 (2)](https://github.com/user-attachments/assets/bf5db112-690e-4cc7-b05d-dc969d7a1284)
 
@@ -35,6 +41,9 @@ With this tool, you'll spend less time searching for details and more time disco
 - Create a [Proton account](https://proton.me/support/set-up-proton-drive) (Or any other third-party cloud provider ex: Dropbox, Google, ...)
 - Install application [Proton Drive](https://proton.me/drive/download)
 - Purchase an Obsidian Sync Subscription [Obsidian Sync](https://obsidian.md/sync) ---> (~50$/YEAR)
+
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Methodology
 
@@ -85,6 +94,9 @@ This methodology enables efficient categorization, ensuring that all your notes 
 
 **PS: Once you discover additional paths in Burp, click "Generate" in the Burp extension to add the newly discovered paths.**
 
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## Collaboration
 
 To use Obsidian collaboratively, you need to determine two key aspects. First, decide if your collaborator needs to create new files or contribute to the website mapping. If the collaborator does not need or want to contribute to this aspect, simply share the project with Obsidian Sync (refer to [Obsidian documentation](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) for details).
@@ -127,19 +139,24 @@ To invite your collaborator, go to Obsidian's settings, select "Sync," and then 
 
 This method enables collaborators to contribute to the company topology, allowing each to share their findings.
 
+<img src="assets/divider.svg" width="100%" alt="" />
 
-
-<br>
+## 🧰 Hacking Notes Ecosystem
 
 <div align="center">
 
-### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
-
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
-[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
-[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
-[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
-
-<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+🌐 &nbsp;**[hacking-notes.com](https://hacking-notes.com)** &nbsp;·&nbsp; ✍️ &nbsp;**[blog](https://hacking-notes.medium.com/)** &nbsp;·&nbsp; 💬 &nbsp;**[discord](https://discord.gg/r68ameNHrD)**
 
 </div>
+
+| | Resource | What you get |
+| :-: | -------- | ------------ |
+| 🗺 | **[Hacker-Roadmap](https://github.com/Hacking-Notes/Hacker-Roadmap)** | Structured paths from beginner to pro — hobbyist, bug bounty, certs & degree. |
+| 🔴 | **[RedTeam Notes](https://github.com/Hacking-Notes/RedTeam)** | Offensive security notes: recon, exploitation, Windows & Linux. |
+| 🔷 | **[BlueTeam Notes](https://github.com/Hacking-Notes/BlueTeam)** | Defensive security notes: forensics, malware, log & packet analysis. |
+| 🧩 | **[Extensions](https://github.com/Hacking-Notes/Extensions)** | Curated Chrome extensions for ethical hacking & recon. |
+| 🔖 | **[Bookmarks](https://github.com/Hacking-Notes/Bookmarks)** | Curated hacker bookmark collection, one import away. |
+
+<img src="assets/footer.svg" width="100%" alt="" />
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
